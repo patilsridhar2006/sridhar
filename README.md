@@ -1,2 +1,2 @@
 # sridhar
-Repository for learning GitHub
+Repository for learning GitHub for a beginner
